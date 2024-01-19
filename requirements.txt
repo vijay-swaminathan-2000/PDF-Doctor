@@ -1,0 +1,6 @@
+langchain
+fastapi
+uvicorn
+ctransformers
+faiss-cpu
+pdfplumber
